@@ -8,10 +8,12 @@
 
 I'm Manali Biswas 👩‍💻 !
 
-- _Currently_: CSE undergrad at Delhi Technological University
+- _Currently_: Software Engineer at Microsoft
+-_Previously_: CSE undergrad at Delhi Technological University
 
 ### 💻I'm Currently Exploring
 
+- Android and iOS dev
 - Web Development
 - ML and AI
 - Chatbots
@@ -20,7 +22,7 @@ I'm Manali Biswas 👩‍💻 !
 ### 💼Experience I Have
 
 - Chairperson IEEE DTU WIE 2021-22
-- SWE Intern at Microsoft 2021 & 2020
+- SWE Intern at Microsoft 2022 & 2021, 2020
 - Microsoft Hackathon 2020
 - IEEE DTU Webinar & Membership Coordinator 2020-21
 - Volunteering For Web Development
