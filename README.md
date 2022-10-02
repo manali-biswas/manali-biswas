@@ -8,7 +8,7 @@
 
 I'm Manali Biswas 👩‍💻 !
 
-- _Currently_: Software Engineer at Microsoft
+- _Currently_: Software Engineer at Microsoft <br>
 -_Previously_: CSE undergrad at Delhi Technological University
 
 ### 💻I'm Currently Exploring
