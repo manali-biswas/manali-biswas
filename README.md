@@ -22,7 +22,8 @@ I'm Manali Biswas 👩‍💻 !
 ### 💼Experience I Have
 
 - Chairperson IEEE DTU WIE 2021-22
-- SWE Intern at Microsoft 2022 & 2021, 2020
+- SWE Intern at Microsoft 2022, 2021 & 2020
+- Semi-finalist (national) Imagine Cup
 - Microsoft Hackathon 2020
 - IEEE DTU Webinar & Membership Coordinator 2020-21
 - Volunteering For Web Development
